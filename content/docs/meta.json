@@ -1,0 +1,156 @@
+{
+  "order": [
+    {
+      "id": "concepts",
+      "name": "Quick Start",
+      "description": "Explore key concepts of the ChattyCloud database platform.",
+      "image": "/img/internals/category_concepts_light.png",
+      "pages": [
+        {
+          "route": "chattycloud-workflow",
+          "display": "ChattyCloud workflow"
+        },
+        {
+          "route": "branching",
+          "display": "Branching"
+        },
+        {
+          "route": "connection-strings",
+          "display": "Connection strings"
+        },
+        {
+          "route": "database-imports",
+          "display": "Database imports"
+        },
+        {
+          "route": "regions",
+          "display": "Regions"
+        },
+        {
+          "route": "nonblocking-schema-changes",
+          "display": "Non-blocking schema changes"
+        },
+        {
+          "route": "web-console",
+          "display": "Web console"
+        },
+        {
+          "route": "authentication-methods",
+          "display": "Authentication methods"
+        },
+        {
+          "route": "mfa",
+          "display": "Multi-factor authentication"
+        },
+        {
+          "route": "sso",
+          "display": "Single sign-on"
+        },
+        {
+          "route": "security",
+          "display": "Security & Compliance"
+        },
+        {
+          "route": "access-control",
+          "display": "Access control"
+        },
+        {
+          "route": "audit-log",
+          "display": "Audit log"
+        },
+        {
+          "route": "security-log",
+          "display": "Security log"
+        },
+        {
+          "route": "query-statistics",
+          "display": "Query statistics"
+        },
+        {
+          "route": "billing",
+          "display": "Billing"
+        },
+        {
+          "route": "back-up-and-restore",
+          "display": "Back up and restore"
+        }
+      ]
+    },
+    {
+      "id": "tutorials",
+      "name": "Tutorials",
+      "description": "Learn the basics with our hands-on tutorials.",
+      "image": "/img/internals/category_tutorials_light.png",
+      "pages": [
+        {
+          "route": "chattycloud-quick-start-guide",
+          "display": "ChattyCloud quick start guide"
+        },
+        {
+          "route": "connect-any-application",
+          "display": "Connect any app"
+        },
+        {
+          "route": "connect-rails-app",
+          "display": "Connect a Rails app"
+        },
+        {
+          "route": "connect-nodejs-app",
+          "display": "Connect a Node.js app"
+        },
+        {
+          "route": "nextjs-chattycloud-netlify-template",
+          "display": "Next.js and Netlify Template"
+        },
+        {
+          "route": "deploy-to-vercel",
+          "display": "Deploy to Vercel"
+        },
+        {
+          "route": "prisma-data-platform-integration",
+          "display": "Prisma Data Platform integration"
+        },
+        {
+          "route": "automatic-rails-migrations",
+          "display": "Automatic Rails migrations"
+        },
+        {
+          "route": "automatic-prisma-migrations",
+          "display": "Automatic Prisma migrations"
+        },
+        {
+          "route": "change-unique-key",
+          "display": "Change single unique key"
+        },
+        {
+          "route": "operating-without-foreign-keys",
+          "display": "Operating without FK constraints"
+        }
+      ]
+    },
+    {
+      "id": "reference",
+      "name": "Reference",
+      "description": "Learn how to set up your ChattyCloud development environment, CLI, and more!",
+      "image": "/img/internals/category_reference_light.png",
+      "pages": [
+        {
+          "route": "chattycloud-environment-setup",
+          "display": "ChattyCloud environment set up"
+        },
+        {
+          "route": "chattycloud-cli",
+          "display": "ChattyCloud CLI"
+        },
+        {
+          "route": "secure-connections",
+          "display": "Secure connections"
+        },
+        {
+          "route": "service-tokens",
+          "display": "Service tokens"
+        }
+      ]
+    }
+  ]
+}
