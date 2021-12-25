@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://undefined/</loc></url>
+  <url><loc>https://undefined/concepts/chattycloud-workflow</loc></url
+  ><url><loc>https://undefined/concepts/branching</loc></url
+  ><url><loc>https://undefined/concepts/connection-strings</loc></url
+  ><url><loc>https://undefined/concepts/database-imports</loc></url
+  ><url><loc>https://undefined/concepts/regions</loc></url
+  ><url><loc>https://undefined/concepts/nonblocking-schema-changes</loc></url
+  ><url><loc>https://undefined/concepts/web-console</loc></url
+  ><url><loc>https://undefined/concepts/authentication-methods</loc></url
+  ><url><loc>https://undefined/concepts/mfa</loc></url
+  ><url><loc>https://undefined/concepts/sso</loc></url
+  ><url><loc>https://undefined/concepts/security</loc></url
+  ><url><loc>https://undefined/concepts/access-control</loc></url
+  ><url><loc>https://undefined/concepts/audit-log</loc></url
+  ><url><loc>https://undefined/concepts/security-log</loc></url
+  ><url><loc>https://undefined/concepts/query-statistics</loc></url
+  ><url><loc>https://undefined/concepts/billing</loc></url
+  ><url><loc>https://undefined/concepts/back-up-and-restore</loc></url
+  ><url><loc>https://undefined/tutorials/chattycloud-quick-start-guide</loc></url
+  ><url><loc>https://undefined/tutorials/connect-any-application</loc></url
+  ><url><loc>https://undefined/tutorials/connect-rails-app</loc></url
+  ><url><loc>https://undefined/tutorials/connect-nodejs-app</loc></url
+  ><url><loc>https://undefined/tutorials/nextjs-chattycloud-netlify-template</loc></url
+  ><url><loc>https://undefined/tutorials/deploy-to-vercel</loc></url
+  ><url><loc>https://undefined/tutorials/prisma-data-platform-integration</loc></url
+  ><url><loc>https://undefined/tutorials/automatic-rails-migrations</loc></url
+  ><url><loc>https://undefined/tutorials/automatic-prisma-migrations</loc></url
+  ><url><loc>https://undefined/tutorials/change-unique-key</loc></url
+  ><url><loc>https://undefined/tutorials/operating-without-foreign-keys</loc></url
+  ><url><loc>https://undefined/reference/chattycloud-environment-setup</loc></url
+  ><url><loc>https://undefined/reference/chattycloud-cli</loc></url
+  ><url><loc>https://undefined/reference/secure-connections</loc></url
+  ><url><loc>https://undefined/reference/service-tokens</loc></url>
+</urlset>
