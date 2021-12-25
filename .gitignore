@@ -8,6 +8,5 @@ out
 .idea/*
 .idea
 **/.idea
-.vercel
 .next
 sitemap.xml
